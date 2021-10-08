@@ -17,7 +17,7 @@ class Parameters extends \Common\Configuration
               "licence_key" => "",
               "standalone" => true,
               //"frontend_server_name" => "http://localhost:8000/", // define only if needed
-              "server_name" => "http://localhost:8000/",
+              "server_name" => "https://twake.portlandregion.com/",
               "internal_server_name" => "http://nginx/"
             ],
             "jwt" => [
